@@ -10,7 +10,7 @@
 
 <!-- Side Image -->
 
-<img src="sidebar.png" width="267" align="right" />
+<img src="sidebar.png" width="25%" align="right" />
 
 
 <!-- Introduction -->
