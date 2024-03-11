@@ -6,4 +6,4 @@
   
 </div>
 
-<img src="mineralsgif.gif" width="500px" align="right">
+<img src="mineralsgif.gif" width="500px" align="middle">
