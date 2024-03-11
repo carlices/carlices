@@ -1,5 +1,9 @@
 ## E aí, meu chapa? 🐦‍⬛
 
+  📍 Santos - Brazil
+  🎓 Newly graduated Systems Analyst @ UNIMONTE • Web computing @ IFSP
+  💼 Project Governance Intern @ VIVO Telefônica • Designer Digital freelancer
+
 <div>
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "Javascript" alt = "Javascript" width = "40" hight = "40" />&nbsp;
