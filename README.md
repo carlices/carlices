@@ -19,7 +19,7 @@
   
   Welcome to my code space!
   
-  📍 São Paulo - Brazil
+  📍 São Paulo / Brazil
   🎓 Newly graduated Systems Analyst @ UNIMONTE • IT Technician @ FORTEC
   💼 Project Governance Intern @ VIVO Telefônica • Designer Digital freelancer
   🎮 Gamer girl
