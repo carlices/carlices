@@ -42,4 +42,4 @@
 [![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/carlices)
 [![](https://img.shields.io/badge/Website-696af5)](https://carlices.github.io/)
 [![](https://img.shields.io/badge/CV-A864C8)]()
-[![](https://img.shields.io/badge/Holopin-e75e9b)]()
+[![](https://img.shields.io/badge/Holopin-e75e9b)](https://www.holopin.io/@carlices#badges)
