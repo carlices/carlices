@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src = "mineralsgig.gif" widht = "500px">
+<img src = "mineralsgif.gif" widht = "500px">
