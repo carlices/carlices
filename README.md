@@ -1,8 +1,8 @@
 ## E aí, meu chapa? 🐦‍⬛
 
   📍 Santos - Brazil
-  🎓 Newly graduated Systems Analyst @ UNIMONTE • Web computing @ IFSP
-  💼 Project Governance Intern @ VIVO Telefônica • Designer Digital freelancer
+  <br>🎓 Newly graduated Systems Analyst @ UNIMONTE • Web computing @ IFSP</br>
+  <br>💼 Project Governance Intern @ VIVO Telefônica • Designer Digital freelancer</br>
 
 <div>
 
