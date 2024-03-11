@@ -2,7 +2,7 @@
 
   📍 Santos - Brazil
   <br>🎓 Newly graduated Systems Analyst @ UNIMONTE • Web computing @ IFSP</br>
-  <br>💼 Project Governance Intern @ VIVO Telefônica • Designer Digital freelancer</br>
+  💼 Project Governance Intern @ VIVO Telefônica • Designer Digital freelancer
 
 <div>
 
